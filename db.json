@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "1",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-20T17:31:10.260Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "updated log",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-20T18:05:47.490Z"
+    },
+    {
+      "message": "new log",
+      "attention": true,
+      "tech": "Harry Hoover",
+      "date": "2020-06-20T18:16:09.908Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": "4",
+      "firstName": "Steve",
+      "lastName": "Jenkins"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Stanzione",
+      "id": "fDiqyqM"
+    },
+    {
+      "firstName": "Amanda",
+      "lastName": "Jenkins",
+      "id": "qU1go44"
+    }
+  ]
+}
